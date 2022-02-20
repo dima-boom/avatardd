@@ -5,7 +5,7 @@ try:
 
     yes = 0
     while True:
-        time.sleep(5)
+        time.sleep(30)
         yes +=1
         if yes == 12:
             yes = 1
